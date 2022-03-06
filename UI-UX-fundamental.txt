@@ -1,0 +1,226 @@
+***************************
+*   Web design ====>>     *
+***************************
+    ***********************
+    *   1. UI =====>>     *
+    ***********************
+    User Interface == how we design a website for user thats called user interface
+
+    ***********************
+    *   2. UX =====>>     *
+    ***********************
+    User Experience == when we design a UI than we think how much efficient that UI thats sepend on User experience
+
+***********************************************
+*    Web design requirement ===>>             *
+***********************************************
+   *******************************
+   * 1. Website purpose ===>>    * 
+   *******************************
+    website purpose means which products we build or dependencies, its important cause color tone, structure, user-experience related feature depends on website purpose
+
+   *******************************
+   * 2. Website Simplicity ===>> * 
+   *******************************
+    website simplicity means when we build the desire site than we must see the website build with maximun user experience ans maximun simplicity, we dont build any fency website which feel boaring for end user
+
+   ******************************************
+   * 3. Website Container Consistancy ===>> * 
+   ******************************************
+    A website have lots of container and onec a container define a indivisual purpose, but we must alert that all container have there own purpose and there have a consistancy, if we do not do this that will be less important for the end user cause end user cant relate there own purpose for there visited desireness
+  
+   ******************************************
+   * 4. Website Color Consistancy ===>>     * 
+   ******************************************
+    its more important like which button have which color and how much it is eye cachy for end user and when we build our website then we must think about customar age, and we give our color depend on customars age, dont make it too much fency
+
+   **********************************************************
+   * 5. Website Alignment Consistancy and white-apace ===>> * 
+   **********************************************************
+    when we build a website than we must think about all container and all paragraph alignment consistancy and between there white-space consistancy.
+
+   **********************************************************
+   * 5. Website Less Scrolling more feature in navbar ===>> * 
+   **********************************************************
+    when you think about user Experience than we build website more feature in our header navbar or side bar and our container, dont build website more scrolling like when end user enter your website he/she want to see his/her service so when he find his service by using scrolling than he will be boaring so dont build over scrolling website avoid it 
+
+   *******************************
+   * 5. Website Typography ===>> * 
+   *******************************
+    we always manage Typography in our website we did't use fency Typography always use simple typography. do not use cursive letter always. when we build a fency website and requirement is fency than we use fency typography
+
+
+
+
+
+
+
+#### Important Tools for web design-UI/UX and important web link:-
+*******************************
+* 0. UI/UX edit tools ===>>   * 
+*******************************
+
+almost all puchka designer use this app figma .com cause we can use it for build a design and and customize a design point to point get css property etc 
+
+##################################################################
+
+1. figma.com : https://www.figma.com/
+
+##################################################################
+
+##################################################################
+
+2. go to figma.com/community and search and select your design and duplicate it than customize your requirement and feature than develop your frontend task
+
+##################################################################
+
+
+
+*******************************
+* 1. Color tone ===>>         * 
+*******************************
+
+Below those website you will find pretty thought about color, gradient, primary color, secondary color, color code for simple UI/UX design 
+
+##################################################################
+
+1. ui color picker :- https://uicolorpicker.com/
+
+##################################################################
+
+
+##################################################################
+
+2. flat ui colors :- https://flatuicolors.com/
+
+##################################################################
+
+
+##################################################################
+
+3. flat ui color picker :- https://www.flatuicolorpicker.com/
+
+##################################################################
+
+
+##################################################################
+
+4. boot flat :- http://bootflat.github.io/color-picker.html
+
+##################################################################
+
+
+
+
+**************************************************
+* 2. Where we can take inspiration ===>>         * 
+**************************************************
+
+
+##################################################################
+
+1. theme forest :- https://themeforest.net/
+
+##################################################################
+
+
+##################################################################
+
+2. dribbble.com :- https://dribbble.com/
+
+##################################################################
+
+##################################################################
+
+3. awwwards.com:- https://www.awwwards.com/
+
+##################################################################
+   
+
+
+   
+**************************************************
+* 3. Where we can take free picture ===>>        * 
+**************************************************
+
+
+##################################################################
+
+2. pixel.com :- https://www.pexels.com/
+
+##################################################################
+
+
+##################################################################
+
+3. freepik.com :- https://www.freepik.com/free-photos-vectors/free-pic
+
+##################################################################
+
+
+##################################################################
+
+4. shutterstock.com :- https://www.shutterstock.com/
+
+##################################################################
+
+##################################################################
+
+5. unsplash.com :- https://unsplash.com/
+
+##################################################################
+
+
+**************************************************
+* 4. picture optimization app ===>>              * 
+**************************************************
+
+
+##################################################################
+
+1. photopea.com :- https://www.photopea.com/
+
+##################################################################
+
+
+##################################################################
+
+2. tinypng.com  :- https://tinypng.com/
+
+##################################################################
+
+
+
+**************************************************
+* 4. icon font free site  ===>>                  * 
+**************************************************
+
+##################################################################
+
+1. font-awesome :- https://fontawesome.com/
+
+##################################################################
+
+
+##################################################################
+
+2. icon8.com :- https://icons8.com/i
+
+##################################################################
+
+
+##################################################################
+
+3. flaticon.com:- https://www.flaticon.com/
+
+##################################################################
+
+##################################################################
+
+4. iconfinder.com :- https://www.iconfinder.com/
+
+##################################################################
+
+
+
+
